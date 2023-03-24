@@ -1,0 +1,17 @@
+.bs-dark {
+  color: blue;
+}
+
+img {
+  height: 75vh;
+  position: relative;
+  opacity: 0.8;
+}
+.position-absolute {
+  top: 40%;
+  left: -40%;
+}
+.new-footer {
+  height: 25vh;
+  padding-top: 20vh;
+}
